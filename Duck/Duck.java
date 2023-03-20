@@ -16,7 +16,7 @@ public abstract class Duck {
     }
 
     public void swim() {
-        System.out.println("Tất cả vịt đều nổi");
+        System.out.println("Tất cả vịt đều nổi, kể cả mồi nhử!");
     }
 
     public void setFlyBehavior(Flyable fb) {
